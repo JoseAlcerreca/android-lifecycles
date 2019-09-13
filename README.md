@@ -12,7 +12,6 @@
 * [Part I: Activities - single activity lifecycle](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)
 * [Part II: Multiple activities - navigation and back stack](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-ii-multiple-activities-a411fd139f24)
 * [Part III: Fragments - activity and fragment lifecycle](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd)
-* [Part IV: ViewModels, Translucent Activities and Launch Modes]
-
+* [Part IV: ViewModels, Translucent Activities and Launch Modes](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iv-49946659b094)
 ## License
 Copyright 2018 Google LLC. Licensed under the Apache License, Version 2.0.
